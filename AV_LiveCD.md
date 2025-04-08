@@ -1,7 +1,3 @@
-Aquí tienes tu texto con emojis e iconos añadidos según corresponda para hacerlo más visual y atractivo:
-
----
-
 ### Antivirus Live CD 🛡️💿
 
 **Puntos clave:**
